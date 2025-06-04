@@ -32,3 +32,8 @@ More details will be added as the individual modules are implemented.
 - BIRCH: Zhang, Ramakrishnan, and Livny. "BIRCH: An Efficient Data Clustering Method for Very Large Databases," 1996.
 - Imprinting: Qi, Brown, and Lowe. "Low-shot learning with imprinted weights," CVPR 2018.
 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
